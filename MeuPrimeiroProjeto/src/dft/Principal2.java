@@ -10,6 +10,7 @@ public class Principal2 {
 		seuCarro.modelo = "Civic";
 		
 		meuCarro.ligar();
+		seuCarro.ligar();
 	}
 
 }
