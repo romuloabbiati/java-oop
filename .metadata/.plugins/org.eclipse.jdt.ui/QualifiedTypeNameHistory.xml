@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="dft.Carro"/>
     <fullyQualifiedTypeName name="dft.Proprietario"/>
+    <fullyQualifiedTypeName name="dft.FolhaPagamento"/>
+    <fullyQualifiedTypeName name="mod3exercicio14.Caminhada"/>
 </qualifiedTypeNameHistroy>
