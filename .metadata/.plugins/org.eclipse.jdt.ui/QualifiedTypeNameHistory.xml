@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="dft.Proprietario"/>
     <fullyQualifiedTypeName name="dft.FolhaPagamento"/>
     <fullyQualifiedTypeName name="mod3exercicio14.Caminhada"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 </qualifiedTypeNameHistroy>
