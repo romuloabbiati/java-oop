@@ -6,10 +6,14 @@ public class ContaPagar {
 	private Double valor;
 	private String dataVencimento;
 	private Fornecedor fornecedor;
+	private SituacaoConta situacaoConta;
 	
-	ContaPagar() {}
+	ContaPagar() {
+		situacaoConta = SituacaoConta.PENDENTE;
+	}
 	
 	ContaPagar(Fornecedor fornecedor, String descricao, Double valor, String dataVencimento) {
+		this();
 		this.fornecedor = fornecedor;
 		this.descricao = descricao;
 		this.valor = valor;
@@ -17,10 +21,35 @@ public class ContaPagar {
 	}
 	
 	public void pagar() {
-		System.out.println("Descricao: " + this.descricao);
-		System.out.println("Valor: " + this.valor);
-		System.out.println("Data vencimento: " + this.valor);
-		System.out.println("Fornecedor: " + this.fornecedor.getNome());
+		if (SituacaoConta.PAGA.equals(this.getSituacaoConta())) {
+			System.out.println("Nao pode pagar uma conta que jah estah paga: " + this.getDescricao());
+		} else if (SituacaoConta.CANCELADA.equals(this.getSituacaoConta())) {
+			System.out.println("Nao pode pagar uma conta que estah cancelada: " + this.getDescricao());
+		} else {
+			System.out.println("Pagando conta " + this.getDescricao() + " no valor de " 
+					+ this.getValor() + " e vencimento em " + this.getDataVencimento() 
+					+ " do fornecedor " + this.getFornecedor().getNome() + ".");		
+			
+			this.situacaoConta = SituacaoConta.PAGA;
+		}
+	}	
+	
+	public void cancelar() {
+		if (SituacaoConta.CANCELADA.equals(this.getSituacaoConta())) {
+			System.out.println("Não pode cancelar uma conta que já foi cancelada: " 
+					+ this.getDescricao() + ".");
+		} else if (SituacaoConta.PAGA.equals(this.getSituacaoConta())) {
+			System.out.println("Não pode cancelar uma conta que já foi paga: " 
+					+ this.getDescricao() + ".");
+		} else {
+			System.out.println("Cancelando conta " + this.getDescricao() + ".");
+			
+			this.situacaoConta = SituacaoConta.CANCELADA;
+		}
+	}
+
+	public SituacaoConta getSituacaoConta() {
+		return situacaoConta;
 	}
 
 	public String getDescricao() {
