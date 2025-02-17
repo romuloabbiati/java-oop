@@ -11,7 +11,7 @@ public class TesteHeranca {
 		j.dizerSeAindaJoga();
 		
 		Pessoa p = new Pessoa();
-		p.dizerSeAindaJoga();
+//		p.dizerSeAindaJoga();
 
 	}
 

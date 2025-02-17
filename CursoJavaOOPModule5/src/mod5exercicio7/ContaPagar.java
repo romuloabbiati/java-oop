@@ -1,23 +1,16 @@
 package mod5exercicio7;
 
-public class ContaPagar {
+public class ContaPagar extends Conta {
 	
-	private String descricao;
-	private Double valor;
-	private String dataVencimento;
 	private Fornecedor fornecedor;
-	private SituacaoConta situacaoConta;
 	
-	ContaPagar() {
-		situacaoConta = SituacaoConta.PENDENTE;
-	}
+	public ContaPagar() {}
 	
-	ContaPagar(Fornecedor fornecedor, String descricao, Double valor, String dataVencimento) {
-		this();
+	public ContaPagar(Fornecedor fornecedor, String descricao, Double valor, String dataVencimento) {
 		this.fornecedor = fornecedor;
-		this.descricao = descricao;
-		this.valor = valor;
-		this.dataVencimento = dataVencimento;
+		this.setDescricao(descricao);
+		this.setValor(valor);
+		this.setDataVencimento(dataVencimento);
 	}
 	
 	public void pagar() {
@@ -32,48 +25,6 @@ public class ContaPagar {
 			
 			this.situacaoConta = SituacaoConta.PAGA;
 		}
-	}	
-	
-	public void cancelar() {
-		if (SituacaoConta.CANCELADA.equals(this.getSituacaoConta())) {
-			System.out.println("Não pode cancelar uma conta que já foi cancelada: " 
-					+ this.getDescricao() + ".");
-		} else if (SituacaoConta.PAGA.equals(this.getSituacaoConta())) {
-			System.out.println("Não pode cancelar uma conta que já foi paga: " 
-					+ this.getDescricao() + ".");
-		} else {
-			System.out.println("Cancelando conta " + this.getDescricao() + ".");
-			
-			this.situacaoConta = SituacaoConta.CANCELADA;
-		}
-	}
-
-	public SituacaoConta getSituacaoConta() {
-		return situacaoConta;
-	}
-
-	public String getDescricao() {
-		return descricao;
-	}
-
-	public void setDescricao(String descricao) {
-		this.descricao = descricao;
-	}
-
-	public Double getValor() {
-		return valor;
-	}
-
-	public void setValor(Double valor) {
-		this.valor = valor;
-	}
-
-	public String getDataVencimento() {
-		return dataVencimento;
-	}
-
-	public void setDataVencimento(String dataVencimento) {
-		this.dataVencimento = dataVencimento;
 	}
 
 	public Fornecedor getFornecedor() {
