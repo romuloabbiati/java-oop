@@ -11,4 +11,11 @@
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.animal.Cachorro"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.enums.OperacaoAritmetica"/>
     <fullyQualifiedTypeName name="mod5exercicio7.SituacaoConta"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.heritage.Jogador"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.heritage.Pessoa"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.sobreposicao.ProdutoPerecivel"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="desafioheranca.Fornecedor"/>
+    <fullyQualifiedTypeName name="desafioheranca.Cliente"/>
+    <fullyQualifiedTypeName name="desafioheranca.SituacaoConta"/>
 </qualifiedTypeNameHistroy>
