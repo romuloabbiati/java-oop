@@ -18,4 +18,6 @@
     <fullyQualifiedTypeName name="desafioheranca.Fornecedor"/>
     <fullyQualifiedTypeName name="desafioheranca.Cliente"/>
     <fullyQualifiedTypeName name="desafioheranca.SituacaoConta"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.sobrecarga.CadastroPessoa"/>
+    <fullyQualifiedTypeName name="mod5exercicio19.MaquinaCafe"/>
 </qualifiedTypeNameHistroy>
