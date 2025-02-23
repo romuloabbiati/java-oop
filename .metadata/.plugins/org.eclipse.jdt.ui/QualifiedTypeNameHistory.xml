@@ -20,4 +20,11 @@
     <fullyQualifiedTypeName name="desafioheranca.SituacaoConta"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.sobrecarga.CadastroPessoa"/>
     <fullyQualifiedTypeName name="mod5exercicio19.MaquinaCafe"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.TestePolimorfismo"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaCorrent"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.Conta"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.abstrata.Produto"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.abstrata.ProdutoPerecivel"/>
 </qualifiedTypeNameHistroy>
