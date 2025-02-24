@@ -27,4 +27,10 @@
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaPoupanca"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.abstrata.Produto"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.abstrata.ProdutoPerecivel"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.interfaces.pagamento.Autorizavel"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.interfaces.impressao.Imprimivel"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.enums.Carta"/>
+    <fullyQualifiedTypeName name="java.awt.Checkbox"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.interfaces.impressao.Impressora"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.interfaces.pagamento.Operadora"/>
 </qualifiedTypeNameHistroy>
