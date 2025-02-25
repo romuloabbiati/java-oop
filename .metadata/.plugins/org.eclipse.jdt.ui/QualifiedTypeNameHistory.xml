@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="dft.Proprietario"/>
     <fullyQualifiedTypeName name="dft.FolhaPagamento"/>
     <fullyQualifiedTypeName name="mod3exercicio14.Caminhada"/>
-    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="dft.ArCondicionado"/>
     <fullyQualifiedTypeName name="mod5exercicio7.Fornecedor"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.treinador.DonoCachorro"/>
@@ -33,4 +32,8 @@
     <fullyQualifiedTypeName name="java.awt.Checkbox"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.interfaces.impressao.Impressora"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.interfaces.pagamento.Operadora"/>
+    <fullyQualifiedTypeName name="mod5exercicio24.Imovel"/>
+    <fullyQualifiedTypeName name="mod5exercicio24.Seguravel"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
