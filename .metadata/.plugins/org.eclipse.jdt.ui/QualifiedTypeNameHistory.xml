@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.heritage.Jogador"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.heritage.Pessoa"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.sobreposicao.ProdutoPerecivel"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="desafioheranca.Fornecedor"/>
     <fullyQualifiedTypeName name="desafioheranca.Cliente"/>
     <fullyQualifiedTypeName name="desafioheranca.SituacaoConta"/>
@@ -42,4 +41,10 @@
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.excecoes.SaldoInsuficienteException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="mod6exercicio5.OperacaoContaException"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 </qualifiedTypeNameHistroy>
