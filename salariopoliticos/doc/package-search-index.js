@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"salariopoliticos","l":"mod6exercicio13"}];updateSearchResults();

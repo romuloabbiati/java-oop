@@ -3,8 +3,16 @@ package mod6exercicio13;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 
+/**
+ * Esse programa calcula o custo dos politicos no Brasil
+ * @author romuloabbiati
+ */
 public class Principal {
 	
+	/**
+	 * @exception Esse programa pode lancar excessoes como illegalArgumentException
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		DecimalFormat formatador = new DecimalFormat("R$ #,##0.00");
 		
