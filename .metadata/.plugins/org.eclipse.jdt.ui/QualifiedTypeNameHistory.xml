@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="dft.Carro"/>
-    <fullyQualifiedTypeName name="dft.Proprietario"/>
-    <fullyQualifiedTypeName name="dft.FolhaPagamento"/>
-    <fullyQualifiedTypeName name="mod3exercicio14.Caminhada"/>
-    <fullyQualifiedTypeName name="dft.ArCondicionado"/>
-    <fullyQualifiedTypeName name="mod5exercicio7.Fornecedor"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.treinador.DonoCachorro"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.animal.Cachorro"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.enums.OperacaoAritmetica"/>
     <fullyQualifiedTypeName name="mod5exercicio7.SituacaoConta"/>
@@ -39,15 +32,12 @@
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.excecoes.ContaCorrente"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.excecoes.SaldoInsuficienteException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="mod6exercicio5.OperacaoContaException"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
@@ -58,4 +48,16 @@
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.comparatorcomparable.IdadeComparator"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="javax.swing.Icon"/>
+    <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+    <fullyQualifiedTypeName name="javax.swing.LookAndFeel"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="javax.swing.UIManager"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.varargs.CorreioEletronico"/>
+    <fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
+    <fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
 </qualifiedTypeNameHistroy>
