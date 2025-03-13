@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.animal.Cachorro"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.enums.OperacaoAritmetica"/>
-    <fullyQualifiedTypeName name="mod5exercicio7.SituacaoConta"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.heritage.Jogador"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.heritage.Pessoa"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.sobreposicao.ProdutoPerecivel"/>
-    <fullyQualifiedTypeName name="desafioheranca.Fornecedor"/>
-    <fullyQualifiedTypeName name="desafioheranca.Cliente"/>
-    <fullyQualifiedTypeName name="desafioheranca.SituacaoConta"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.sobrecarga.CadastroPessoa"/>
     <fullyQualifiedTypeName name="mod5exercicio19.MaquinaCafe"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.TestePolimorfismo"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaCorrent"/>
@@ -57,7 +47,17 @@
     <fullyQualifiedTypeName name="javax.swing.UIManager"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.varargs.CorreioEletronico"/>
-    <fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
     <fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.modelo.Produto"/>
+    <fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.StaxDriver"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.modelo.Cliente"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.modelo.Endereco"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.modelo.Telefone"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 </qualifiedTypeNameHistroy>
