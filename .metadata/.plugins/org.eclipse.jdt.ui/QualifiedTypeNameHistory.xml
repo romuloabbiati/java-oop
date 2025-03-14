@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="mod5exercicio19.MaquinaCafe"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.TestePolimorfismo"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaCorrent"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.Conta"/>
@@ -19,13 +18,11 @@
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.mod6exercicio3.MegaSena"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.excecoes.ContaCorrente"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.excecoes.SaldoInsuficienteException"/>
     <fullyQualifiedTypeName name="mod6exercicio5.OperacaoContaException"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="com.google.gson.Gson"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
 </qualifiedTypeNameHistroy>
