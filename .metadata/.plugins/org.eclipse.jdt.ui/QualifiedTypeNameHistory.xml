@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.TestePolimorfismo"/>
-    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaCorrent"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.Conta"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaCorrente"/>
     <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.polimorfismo.ContaPoupanca"/>
@@ -60,4 +58,6 @@
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.algaworks.curso.fjoo.generics.RetiraElementos"/>
 </qualifiedTypeNameHistroy>
